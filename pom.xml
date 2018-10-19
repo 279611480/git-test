@@ -3,6 +3,9 @@
   <groupId>org.yun.test</groupId>
   <artifactId>git-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>Git的测试项目</name>
+  
+  
   
    <!-- 项目属性 -->
 	<properties>
